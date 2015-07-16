@@ -1,0 +1,6 @@
+D:\SimpleCRUDService\SimpleCRUDService\bin\SimpleCRUDService.dll.config
+D:\SimpleCRUDService\SimpleCRUDService\bin\SimpleCRUDService.dll
+D:\SimpleCRUDService\SimpleCRUDService\bin\SimpleCRUDService.pdb
+D:\SimpleCRUDService\SimpleCRUDService\obj\Debug\SimpleCRUDService.csprojResolveAssemblyReference.cache
+D:\SimpleCRUDService\SimpleCRUDService\obj\Debug\SimpleCRUDService.dll
+D:\SimpleCRUDService\SimpleCRUDService\obj\Debug\SimpleCRUDService.pdb
